@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Labs section contains lab handouts and the solutions provided for them.
 learning_resource_types:
 - Labs
 ocw_type: CourseSection
@@ -128,9 +129,9 @@ Folds
 
 ({{% resource_link 8b4d8d84-619c-faa0-fbd4-4ab4d52f3edf "PDF 1" %}})
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 3f26b6d3-5f66-5e2d-f367-93edcb3f4142 "PDF 2" %}})
+({{% resource_link 3f26b6d3-5f66-5e2d-f367-93edcb3f4142 "PDF 2" %}})
 
-(![This resource may not render correctly in a screen reader.](/images/inacessible.gif){{% resource_link 8354ab36-af53-0b59-9994-58a8981ee367 "PDF 3" %}})
+({{% resource_link 8354ab36-af53-0b59-9994-58a8981ee367 "PDF 3" %}})
 
 
 {{< tdclose >}}

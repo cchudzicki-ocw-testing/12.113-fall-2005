@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: Exams section contains sample examination papers and notes for the course.
 learning_resource_types:
 - Exams
 ocw_type: CourseSection
